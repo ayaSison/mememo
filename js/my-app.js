@@ -1,4 +1,4 @@
-Framework7.prototype.plugins.jhayden = function (app, params) {
+Framework7.prototype.plugins.aya = function (app, params) {
     if (!params) return;
 				
 				mean = function(num){
@@ -68,5 +68,5 @@ Framework7.prototype.plugins.jhayden = function (app, params) {
 
 var $$ = Dom7;
 var app = new Framework7({
-    jhayden:true
+    aya:true
 });
